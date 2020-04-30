@@ -1,0 +1,41 @@
+.carousel-item img{
+  max-height: 400px;
+}
+
+.post-preview .post-title {
+  text-decoration: none;
+  color:#ffffff !important;
+}
+
+.post-preview .post-subtitle {
+  text-decoration: none;
+  color:#ffffff !important;
+}
+
+.container{
+  font-family: 'Poiret One', cursive;
+}
+
+.site-heading h1{
+  
+  font-family: 'Poiret One', cursive;
+}
+
+.site-heading .subheading{
+  
+  font-family: 'Poiret One', cursive !important;
+}
+
+.post-title{
+   font-family: 'Poiret One', cursive;
+  } 
+
+  
+.post-subtitle{
+  font-family: 'Poiret One', cursive;
+ } 
+
+ .carousel-caption h5{
+
+  font-family: 'Poiret One', cursive;
+ }
